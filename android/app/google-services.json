@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "276017487566",
+    "project_id": "upayan-5079e",
+    "storage_bucket": "upayan-5079e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276017487566:android:2c0c4f147a9c75ceb87a9f",
+        "android_client_info": {
+          "package_name": "com.example.upayan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276017487566-8jhjd208pbhd0h2ougek4sk6ob6lv8qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuzgmsPl8GrUUcFzut0eVGN2uR1OXS0vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276017487566-8jhjd208pbhd0h2ougek4sk6ob6lv8qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
